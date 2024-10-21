@@ -1,8 +1,6 @@
 # SamarasingheOptical-WebApp
 SamarasingheOptical-WebApp is a comprehensive online platform designed for Samarasinghe Optical to improve customer convenience and expand their market reach. The web app integrates an e-commerce solution with features like secure online payments, product browsing, and appointment scheduling, ensuring a seamless and efficient user experience.
-# Samarasinghe Optical Web Application
 
-This repository contains the web application project developed for **Samarasinghe Optical**, a leading optical retailer in Sri Lanka. The upgraded web platform integrates e-commerce features to enhance customer convenience, allowing users to browse products, place orders, and book appointments online.
 
 ## Project Overview
 The Samarasinghe Optical Web App includes the following features:
